@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Modern GeekNews
 @namespace      github.com/openstyles/stylus
-@version        0.1.1
+@version        0.1.2
 @description    A modern design for GeekNews
 @author         Su-Yong
 
@@ -78,6 +78,8 @@
     }
 
     html {
+        font-size: 10px;
+        
         /* for higher priority */
         * {
             font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
